@@ -1,4 +1,4 @@
-## Hi there 👋
+#Lab-in-a-Box: reproducible self-hosted demo stacks
 Hi — I’m Greg
 
 I build Lab-in-a-Box: reproducible demo stacks you can run in about an hour—Local AI, RAG, and automation—with documentation and troubleshooting that’s actually useful.
