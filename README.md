@@ -2,7 +2,7 @@
 
 Hi — I’m Greg
 
-I build Lab-in-a-Box: reproducible demo stacks you can run in about an hour—Local AI, RAG, and automation—with documentation and troubleshooting that’s actually useful.
+I build reproducible self-hosted demo stacks (Local AI, RAG, automation) that run in ~1 hour—plus docs and troubleshooting that save time.
 
 ## What I ship
 
@@ -16,7 +16,7 @@ Bonus assets: icons, wallpapers, and binder-ready docs
 
 I’m a retired infrastructure/systems admin (Oracle), a multi-time founder, and a patent holder. I’ve built and supported real production environments, and I write guides the way I wish vendors wrote them: repeatable, pinned versions, and verification steps.
 
-Early on I also sold and supported PC systems for banks and hospitals in the Bay Area—one customer was Stanford University Hospital’s Robotics Lab.
+Early customer: Stanford University Hospital — Robotics Lab.
 
 ## How I work
 
