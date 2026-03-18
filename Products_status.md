@@ -43,6 +43,19 @@ Planned playbooks to layer on top of Foundation:
 - **Content Creator Playbook** — status: planned
 - **Brand Management Playbook** — status: planned
 
+### Soul.md Builder
+- **Status:** Listing complete, product in development
+- **Claude Project:** Soul.md Builder (pending creation)
+- **Gumroad:** (not yet listed)
+- **Description:** Interactive AI-powered interview that extracts working style,
+  decision preferences, voice, and non-negotiables — generates a Soul.md file
+  in about 20 minutes. Add-on to AI Team Foundation.
+- **Price point:** $14 launch / $19 regular / $39 Team Edition (future)
+- **Tagline:** Interview once. Deploy often.
+- **Method:** Interview → Distill → Encode
+- **What's next:** Consider SoulForge name change, Build the interactive builder artifact, create Claude project,
+  list on Gumroad
+
 ---
 
 ## CrossCheck Product Line
