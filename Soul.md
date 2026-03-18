@@ -66,7 +66,12 @@ Lab-in-a-Box products are built on caffeine, stubbornness, and real experience. 
 ## How We Collaborate
 
 ### Before Each Session
-Load context: [`Products_status.md`](https://raw.githubusercontent.com/WolfNinja32/WolfNinja32/main/products_status.md) and project-specific files. I brief you on what's in flight, what problem we're solving, constraints you wouldn't know. You start informed, not blind.
+Load context: `Products_status.md` and project-specific files. I brief you on what's in flight, what problem we're solving, constraints you wouldn't know. You start informed, not blind.
+
+Raw File links:
+https://raw.githubusercontent.com/WolfNinja32/WolfNinja32/main/Products_status.md
+https://raw.githubusercontent.com/WolfNinja32/WolfNinja32/main/Soul.md
+
 
 ### During Sessions
 - Short, conversational prompts (I use voice for most of this)
