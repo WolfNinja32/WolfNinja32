@@ -53,9 +53,9 @@ Planned playbooks to layer on top of Foundation:
 - **Price point:** $14 launch / $19 regular / $39 Team Edition (future)
 - **Tagline:** Interview once. Deploy often.
 - **Method:** Interview → Distill → Encode
-- **What's next:** Build the interactive builder artifact, create Claude project,
+- **What's next:** Consider SoulForge name change, Build the interactive builder artifact, create Claude project,
   list on Gumroad
-  
+
 ---
 
 ## CrossCheck Product Line
