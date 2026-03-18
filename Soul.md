@@ -3,6 +3,17 @@
 
 ---
 
+## Standing SOP: How to Load This File
+
+At the start of every session, fetch the current version of this file:
+
+https://raw.githubusercontent.com/WolfNinja32/WolfNinja32/main/Soul.md
+
+Do not rely on a cached or embedded copy. Always fetch fresh from GitHub.
+This is the single source of truth for how Gregory and Claude work together.
+
+---
+
 ## Who I Am
 
 Gregory Dale Collins. Retired IT professional with Oracle background 
