@@ -149,6 +149,7 @@ Planned playbooks to layer on top of Foundation:
 | Local AI | Lab-in-a-Box | Launched | Align strategy |
 | HLBK | HLBK | In redesign | Ship soon |
 | AI Team Foundation | AI Team Foundation | In dev | Ship soon |
+| Soul.md Builder | Soul.md Builder | Listing complete | Ship soon |
 | CrossCheck for Content Creators | CrossCheck | In dev | Ship soon |
 | Meet Dogs Daily | Meet Dogs Daily | Active | Explore automation |
 | Smart Papa | (TBD) | Mature | Clarify status |
