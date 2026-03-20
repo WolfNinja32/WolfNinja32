@@ -7,7 +7,7 @@
 
 ### Primary Workstation
 **iMac 5K** (Retina 5K, 27-inch, Late 2014) — Intel Core i7 4GHz Quad-Core, AMD Radeon R9 M290X 2GB, 32GB 1333MHz DDR3, 1 TB external SSD bood drive, 1TB internal HDD (unused), macOS Ventura 13.7.8
-Primary product development machine. Local file storage. GitHub pushes via VS Code. Loves the big screen.
+Primary product development machine. Local file storage. GitHub pushes via VS Code. Conected Apple Cenema Display 20-inch 1680x1050, Loves the 27-inch 5120x2880 big screen.
 
 ### Daily Driver
 **MacBook Air M3** (2024) — Apple M3, 16GB RAM, 512GB internal + 2TB external SSD, macOS 14
