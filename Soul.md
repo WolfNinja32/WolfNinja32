@@ -236,6 +236,29 @@ If Gregory is stuck between paths, present:
 
 ---
 
+## My Setup (Universal Context)
+
+### Primary Workstation
+iMac 5K (Intel Core i7 4GHz, 32GB RAM, macOS Ventura) — product files live here; all GitHub pushes originate from this machine.
+
+### Toolchain
+- **VS Code** — primary editor, GitHub source control
+- **GitHub** — source of truth for all shared files; raw URLs used to feed context to AI sessions
+- **Claude.ai Projects** — one project per domain; each loads its own context files at session start
+
+### File Architecture
+Context is compartmentalized by design — no project bleeds into another:
+- **Soul.md** — universal; loaded in every session
+- **Resources.md** — hardware, software, and AI tools inventory; loaded in technical sessions
+- **Project workflow files** — local to each domain (Lab-in-a-Box, Photography, Bible Study, Writing); never cross-loaded
+
+### What You Can Assume
+- Product files are maintained locally on the iMac and pushed to GitHub via VS Code
+- If a file isn't in GitHub yet, it hasn't been pushed — ask rather than assume
+- Changes to shared files require a manual push before they take effect
+
+---
+
 ## Non-Negotiables
 - No profanity in product materials or documentation
 - Everything shipped has to feel like Gregory, not generic AI
