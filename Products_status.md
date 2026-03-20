@@ -24,6 +24,19 @@ Lab-in-a-Box is the brand coordinator for all subsidiary products. Each product 
 - **Description:** Printable/fillable PDFs for home lab documentation (3 styles)
 - **What's next:** Clarify product positioning — what do people actually need? Finish redesign with Claude.
 
+### Soul.md Builder
+- **Status:** Listing complete, product in development
+- **Claude Project:** Soul.md Builder (pending creation)
+- **Gumroad:** (not yet listed)
+- **Description:** Interactive AI-powered interview that extracts working style,
+  decision preferences, voice, and non-negotiables — generates a Soul.md file
+  in about 20 minutes. Add-on to AI Team Foundation.
+- **Price point:** $14 launch / $19 regular / $39 Team Edition (future)
+- **Tagline:** Interview once. Deploy often.
+- **Method:** Interview → Distill → Encode
+- **What's next:** Consider SoulForge name change, Build the interactive builder artifact, create Claude project,
+  list on Gumroad
+
 ---
 
 ## Signet Product Line
@@ -156,6 +169,7 @@ Planned playbooks to layer on top of Foundation:
 | Signet Pro | TBD | Planned | After Signet Free |
 | HLBK | HLBK | In redesign | Ship soon |
 | Team Foundation | AI Team Foundation | In dev | Ship soon |
+| Soul.md Builder | Soul.md Builder | Listing complete | Ship soon |
 | Team Builder V2 | TBD | Future idea | After Foundation |
 | CrossCheck for Content Creators | CrossCheck | In dev | Ship soon |
 | Meet Dogs Daily | Meet Dogs Daily | Active | Explore automation |
