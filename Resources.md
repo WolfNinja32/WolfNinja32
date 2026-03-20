@@ -68,7 +68,6 @@ Active for Linux experimentation.
 - **Parallels** — Windows 10 VM on MacBook Air M3
 
 ### Storage
-- **PhotoPrism** — self-hosted photo management
 - **TrueNAS** — primary NAS and services host
 - **Drobo 5C** — attached to Mac mini
 
