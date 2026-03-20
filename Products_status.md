@@ -1,5 +1,5 @@
 # Lab-in-a-Box Product Ecosystem — Status & Coordination
-*Last updated: 2026-03-18*
+*Last updated: 2026-03-19*
 
 ---
 
@@ -26,35 +26,52 @@ Lab-in-a-Box is the brand coordinator for all subsidiary products. Each product 
 
 ---
 
-## AI Team Product Line
+## Signet Product Line
 
-### AI Team Foundation
+### Lab-in-a-Box: Signet (Free)
+- **Status:** In active development — V1 nearly complete
+- **Claude Project:** Lab-in-a-Box (Brainstorming & Agents project)
+- **Gumroad:** (not yet listed)
+- **Description:** A structured AI-powered interview that generates a personal signet.md file — a portable operating document that stamps your standards, voice, and judgment onto any AI agent session. Free tier covers 6 core sections. Output: signet.md.
+- **Tagline:** Stamp your standards onto any AI, once.
+- **Method:** Interview → Distill → Encode
+- **Price point:** Free (lead product) / $14 launch one-time
+- **Thumbnail keywords:** ALIGN / STAMP / DEPLOY
+- **What's next:** Complete design rebuild using Industrial Archive palette; update Gumroad listing under Signet name; build usage guide
+
+### Lab-in-a-Box: Signet Pro
+- **Status:** Planned — V2
+- **Claude Project:** (TBD)
+- **Gumroad:** (not yet listed)
+- **Description:** Full Signet interview plus Role Hats — specialized behavioral configurations for researcher, writer, operator, coder, and other roles. Subscription model with monthly hat presets, compatibility updates, and unlimited regenerations.
+- **Price point:** $9-29/mo (TBD)
+- **What's next:** Design and build after Signet Free launches; subscription infrastructure needed
+
+---
+
+## Team Builder Product Line
+*(formerly AI Team — renamed 2026-03-19)*
+
+### Lab-in-a-Box: Team Foundation
 - **Status:** In active development
 - **Claude Project:** AI Team Foundation
 - **Gumroad:** (not yet listed)
-- **Description:** Core Claude + ChatGPT collaborative workflow using GitHub as shared memory. Base system for all AI Team Playbooks.
+- **Description:** Core Claude + ChatGPT collaborative workflow using GitHub as shared memory. Base system for all Team Playbooks.
 - **Price point:** $40-50
 - **What's next:** Complete core product, prepare for launch
 
-### AI Team Playbooks (Add-ons)
+### Lab-in-a-Box: Team Builder (V2 — future)
+- **Status:** Future product idea — logged 2026-03-19
+- **Claude Project:** (none yet)
+- **Description:** Case study module documenting the creation of Lab-in-a-Box: Signet as a live demonstration of the five-model collaborative workflow (Claude, ChatGPT, Grok, Gemini, Gregory). Shows buyers exactly how to assign tasks to different models, run synthesis rounds, and coordinate a human-led AI team. The Signet build is the flagship worked example.
+- **What's next:** Build after Team Foundation ships; full asset inventory already exists from Signet session
+
+### Team Playbooks (Add-ons)
 Planned playbooks to layer on top of Foundation:
 - **Social Media Playbook** — status: planned
 - **Product Development Playbook** — status: planned
 - **Content Creator Playbook** — status: planned
 - **Brand Management Playbook** — status: planned
-
-### Soul.md Builder
-- **Status:** Listing complete, product in development
-- **Claude Project:** Soul.md Builder (pending creation)
-- **Gumroad:** (not yet listed)
-- **Description:** Interactive AI-powered interview that extracts working style,
-  decision preferences, voice, and non-negotiables — generates a Soul.md file
-  in about 20 minutes. Add-on to AI Team Foundation.
-- **Price point:** $14 launch / $19 regular / $39 Team Edition (future)
-- **Tagline:** Interview once. Deploy often.
-- **Method:** Interview → Distill → Encode
-- **What's next:** Consider SoulForge name change, Build the interactive builder artifact, create Claude project,
-  list on Gumroad
 
 ---
 
@@ -125,7 +142,8 @@ Planned playbooks to layer on top of Foundation:
 - **Load these files at session start:** `Products_status.md`, `Soul.md` (WolfNinja32 repo)
 - **Use raw GitHub URLs:** https://raw.githubusercontent.com/WolfNinja32/WolfNinja32/main/Products_status.md
 - **Update frequency:** After each major product milestone or when status changes
-- **Product launch readiness:** HLBK, AI Team Foundation, CrossCheck for Content Creators are next in queue
+- **Product launch readiness:** Signet Free, HLBK, Team Foundation, CrossCheck for Content Creators are next in queue
+- **Naming note:** AI Team Foundation and AI Team Playbooks renamed to Team Foundation and Team Playbooks on 2026-03-19
 
 ---
 
@@ -134,12 +152,15 @@ Planned playbooks to layer on top of Foundation:
 | Product | Claude Project | Status | Priority |
 |---------|---|---|---|
 | Local AI | Lab-in-a-Box | Launched | Align strategy |
+| Signet Free | Lab-in-a-Box | Nearly complete | Ship next |
+| Signet Pro | TBD | Planned | After Signet Free |
 | HLBK | HLBK | In redesign | Ship soon |
-| AI Team Foundation | AI Team Foundation | In dev | Ship soon |
+| Team Foundation | AI Team Foundation | In dev | Ship soon |
+| Team Builder V2 | TBD | Future idea | After Foundation |
 | CrossCheck for Content Creators | CrossCheck | In dev | Ship soon |
 | Meet Dogs Daily | Meet Dogs Daily | Active | Explore automation |
-| Smart Papa | (TBD) | Mature | Clarify status |
-| CrossCheck: Notion | (none) | Idea | Evaluate |
+| Smart Papa | TBD | Mature | Clarify status |
+| CrossCheck: Notion | none | Idea | Evaluate |
 | Lab Hardware Inventory | Home Lab | In progress | Complete |
-| File Structure | (TBD) | Needed | Plan soon |
+| File Structure | TBD | Needed | Plan soon |
 | ChatGPT Scraper | Brainstorming | Planned | Design phase |
