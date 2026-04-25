@@ -1,26 +1,46 @@
 # Gregory Dale Collins
 
-I build tools that make AI output usable.
+I build tools that fix broken AI output.
 
 ## Current focus
 
 Fixing broken JSON from AI.
 
-ChatGPT and Claude often return JSON that looks right.
+You get JSON from ChatGPT or Claude.
 
-But it fails when you try to use it.
+It looks right.
 
-That’s the problem I’m working on.
+## Example
+
+This looks fine:
+
+```
+{ name: "Greg", items: ["a", "b",], done: True }
+```
+But it breaks when you use it.
+
+Fixed version:
+
+```json
+{
+  "name": "Greg",
+  "items": ["a", "b"],
+  "done": true
+}
+```
+That’s what I’m working on.
 
 ---
 
 ## Tools
 
+These are built around making AI output usable.
+
 - https://datatool.dev  
   Fix broken AI-generated JSON.
 
 - https://toolidx.dev  
-  Structured index of AI tools.
+  Find AI tools that actually work. Structured. Verified. Ready to use.
 
 - https://agenticwatch.dev  
   Real-world testing and notes on AI tools.
@@ -29,8 +49,8 @@ That’s the problem I’m working on.
 
 ## What I care about
 
-- fix structure before trusting output  
-- avoid guessing missing data  
+- fix structure first  
+- don’t guess missing data  
 - fail safely  
 - test against real examples  
 
